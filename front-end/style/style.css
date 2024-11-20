@@ -1,0 +1,16 @@
+.hero-title {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  font-weight: 900;
+}
+
+.hero {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.learn-button {
+  margin-left: 670px;
+  border-radius: 9999px;
+  padding: 8px 14px 8px 14px;
+}
